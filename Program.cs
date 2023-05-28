@@ -33,7 +33,23 @@ class Program
             },
             Paths = new OpenApiPaths
             {
-                // Agregar endpoints adicionales según las necesidades del cliente
+                ["/pets"] = new OpenApiPathItem
+                {
+                    Operations = new Dictionary<OperationType, OpenApiOperation>
+                    {
+                        [OperationType.Get] = new OpenApiOperation
+                        {
+                            Description = "Returns all pets from the system that the user has access to",
+                            Responses = new OpenApiResponses
+                            {
+                                ["200"] = new OpenApiResponse
+                                {
+                                    Description = "OK"
+                                }
+                            }
+                        }
+                    }
+                }
             }
         };
 
