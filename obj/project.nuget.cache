@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QLupPgOxhalzZ/QEq/1nJAjJ1rWXdDJ8OGQVI/50hiaSLB3BzHMGGPeIfTnycWprfi3QnjWei/2zQZdR12fcpA==",
+  "success": true,
+  "projectFilePath": "/home/gonzalez_l/Escritorio/console/console-api/console-api/console-api.csproj",
+  "expectedPackageFiles": [
+    "/home/gonzalez_l/.nuget/packages/microsoft.openapi/1.6.4/microsoft.openapi.1.6.4.nupkg.sha512"
+  ],
+  "logs": []
+}

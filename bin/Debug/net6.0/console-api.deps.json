@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "console-api/1.0.0": {
+        "dependencies": {
+          "Microsoft.OpenApi": "1.6.4"
+        },
+        "runtime": {
+          "console-api.dll": {}
+        }
+      },
+      "Microsoft.OpenApi/1.6.4": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "assemblyVersion": "1.6.4.0",
+            "fileVersion": "1.6.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "console-api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.OpenApi/1.6.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NIfKy+en3LmBAsy0rO5kiuJzGsoTB1ywLJop8NS1PmJy8Gbq8Ut3HdOHUuF1/5KR3YCViOEfuYF1wBiitMRhcA==",
+      "path": "microsoft.openapi/1.6.4",
+      "hashPath": "microsoft.openapi.1.6.4.nupkg.sha512"
+    }
+  }
+}

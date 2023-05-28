@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Microsoft.OpenApi/1.6.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.OpenApi/1.6.4": {
+      "sha512": "NIfKy+en3LmBAsy0rO5kiuJzGsoTB1ywLJop8NS1PmJy8Gbq8Ut3HdOHUuF1/5KR3YCViOEfuYF1wBiitMRhcA==",
+      "type": "package",
+      "path": "microsoft.openapi/1.6.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.OpenApi.dll",
+        "lib/netstandard2.0/Microsoft.OpenApi.pdb",
+        "lib/netstandard2.0/Microsoft.OpenApi.xml",
+        "microsoft.openapi.1.6.4.nupkg.sha512",
+        "microsoft.openapi.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Microsoft.OpenApi >= 1.6.4"
+    ]
+  },
+  "packageFolders": {
+    "/home/gonzalez_l/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/gonzalez_l/Escritorio/console/console-api/console-api/console-api.csproj",
+      "projectName": "console-api",
+      "projectPath": "/home/gonzalez_l/Escritorio/console/console-api/console-api/console-api.csproj",
+      "packagesPath": "/home/gonzalez_l/.nuget/packages/",
+      "outputPath": "/home/gonzalez_l/Escritorio/console/console-api/console-api/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/gonzalez_l/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Microsoft.OpenApi": {
+            "target": "Package",
+            "version": "[1.6.4, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.116/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

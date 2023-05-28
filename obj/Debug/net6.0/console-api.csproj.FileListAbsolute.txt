@@ -1,0 +1,17 @@
+/home/gonzalez_l/Escritorio/console/console-api/console-api/bin/Debug/net6.0/console-api
+/home/gonzalez_l/Escritorio/console/console-api/console-api/bin/Debug/net6.0/console-api.deps.json
+/home/gonzalez_l/Escritorio/console/console-api/console-api/bin/Debug/net6.0/console-api.runtimeconfig.json
+/home/gonzalez_l/Escritorio/console/console-api/console-api/bin/Debug/net6.0/console-api.dll
+/home/gonzalez_l/Escritorio/console/console-api/console-api/bin/Debug/net6.0/ref/console-api.dll
+/home/gonzalez_l/Escritorio/console/console-api/console-api/bin/Debug/net6.0/console-api.pdb
+/home/gonzalez_l/Escritorio/console/console-api/console-api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/gonzalez_l/Escritorio/console/console-api/console-api/obj/Debug/net6.0/console-api.csproj.AssemblyReference.cache
+/home/gonzalez_l/Escritorio/console/console-api/console-api/obj/Debug/net6.0/console-api.GeneratedMSBuildEditorConfig.editorconfig
+/home/gonzalez_l/Escritorio/console/console-api/console-api/obj/Debug/net6.0/console-api.AssemblyInfoInputs.cache
+/home/gonzalez_l/Escritorio/console/console-api/console-api/obj/Debug/net6.0/console-api.AssemblyInfo.cs
+/home/gonzalez_l/Escritorio/console/console-api/console-api/obj/Debug/net6.0/console-api.csproj.CoreCompileInputs.cache
+/home/gonzalez_l/Escritorio/console/console-api/console-api/obj/Debug/net6.0/console-api.csproj.CopyComplete
+/home/gonzalez_l/Escritorio/console/console-api/console-api/obj/Debug/net6.0/console-api.dll
+/home/gonzalez_l/Escritorio/console/console-api/console-api/obj/Debug/net6.0/ref/console-api.dll
+/home/gonzalez_l/Escritorio/console/console-api/console-api/obj/Debug/net6.0/console-api.pdb
+/home/gonzalez_l/Escritorio/console/console-api/console-api/obj/Debug/net6.0/console-api.genruntimeconfig.cache
