@@ -99,9 +99,5 @@ class Program
 
             process.WaitForExit();
         }
-
-        Console.WriteLine("Generación de la API completa.");
-        Console.ReadLine();
-        Environment.Exit(0);
     }
 }
